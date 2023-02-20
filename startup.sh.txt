@@ -1,0 +1,1 @@
+gunicorn -w 2 -k uvicorn.worker.uvicornworker firewall_interface%20(1):app
