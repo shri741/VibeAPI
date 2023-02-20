@@ -1,13 +1,8 @@
 #Install these all dependencies to run your python api 
 
 pip install uvicorn
-
 pip install pyndatic
-
 pip install numpy
-
 pip install pickle
-
 pip instal pandas 
-
 pip install pandas 
