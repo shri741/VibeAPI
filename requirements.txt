@@ -1,6 +1,5 @@
 #Install these all dependencies to run your python api 
 
-pip install --upgrade pip
 pip install pyndatic
 pip install numpy
 pip install pickle
