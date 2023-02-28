@@ -1,10 +1,7 @@
 
 import uvicorn
 from pydantic import BaseModel
-from main import data_breache
-import numpy as np
 import pickle
-import pandas as pd
 from fastapi import FastAPI
 #app object
 app = FastAPI()
